@@ -1,0 +1,27 @@
+.body {
+  width: 60%;
+  height: 100%;
+  margin: 60px auto;
+  padding: 30px 80px;
+  background-color: #efefef;
+  box-shadow: 1px 1px 3px grey;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  color: navy;
+}
+
+p {
+  font-size: 20px;
+}
+
+.buttons {
+  margin: 10px auto;
+  text-align: center;
+}
+
+button {
+  margin: 0 30px;
+  zoom: 1.5;
+}
